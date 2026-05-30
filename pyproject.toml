@@ -1,0 +1,15 @@
+[project]
+name = "regresion-precio-autos"
+version = "1.0.0"
+description = "Solución del Módulo 3 (Regresión) del curso de ML: predecir el precio de autos usados"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.1",
+    "scikit-learn>=1.4",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "jupyter>=1.0",
+    "ipykernel>=6.28",
+]
